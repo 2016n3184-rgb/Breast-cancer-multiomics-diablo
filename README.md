@@ -36,7 +36,7 @@ To integrate multi-omics datasets and:
 
 DIABLO integration shows clear separation of Basal and Luminal A subtypes, while HER2 samples partially overlap with both groups.
 
-![Figure 1](figures/Figure1_DIABLO-based multi-omics integration of breast cancer subtypes.png)
+![DIABLO Integration](Figure%201.%20DIABLO-based%20multi-omics%20integration%20of%20breast%20cancer%20subtypes.png)
 
 ### Figure 2 — Biomarker Identification
 
@@ -44,19 +44,19 @@ Key subtype-discriminating features:
 
 * **mRNA:** CCNA2, E2F1, LRIG1
 
-![Figure 2A](figures/Figure2A_mRNA.png)
+![mRNA Biomarkers](Figure2A_mRNA_biomarkers.png)
   
 * **Protein:** ER-alpha, GATA3, PR
 
-![Figure 2B](figures/Figure2B_miRNA.png)
+![miRNA Biomarkers](Figure2B_miRNA_biomarkers.png)
 
 * **miRNA:** miR-17, miR-20a, miR-106 family
 
-![Figure 2C](figures/Figure2C_protein.png)
+![Protein Biomarkers](Figure2C_protein_biomarkers.png)
 
 ### Figure 3 — Cross-Omics Correlation
 
-![Figure 3](figures/Figure3_heatmap.png)
+![Final Results](Figure3_FINAL.png)
 
 Correlation heatmap reveals two major molecular modules:
 
@@ -70,7 +70,7 @@ These modules show strong inverse relationships.
 The model accurately classifies Basal and Luminal A subtypes.
 HER2 samples are misclassified into both groups, suggesting overlapping molecular characteristics.
 
-![Figure 4](figures/Figure4_confusion.png)
+![Figure 4: Confusion Matrix](Figure4_FINAL_confusion_matrix.png)
 ## Biological Insight
 
 * Basal subtype is associated with proliferation and cell-cycle genes
