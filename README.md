@@ -48,11 +48,11 @@ Key subtype-discriminating features:
   
 * **Protein:** ER-alpha, GATA3, PR
 
-![miRNA Biomarkers](Figure2B_miRNA_biomarkers.png)
+![miRNA Biomarkers](Figure2B_miRNA_biomarkers.png?v=1)
 
 * **miRNA:** miR-17, miR-20a, miR-106 family
 
-![Protein Biomarkers](Figure2C_protein_biomarkers.png)
+![Protein Biomarkers](Figure2C_protein_biomarkers.png?v=1)
 
 ### Figure 3 — Cross-Omics Correlation
 
